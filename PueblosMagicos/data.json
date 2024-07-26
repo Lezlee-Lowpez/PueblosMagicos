@@ -1,0 +1,1921 @@
+
+[
+    {
+        "name": "Aguascalientes",
+        "pueblosMagicos": [
+            {
+                "name": "Calvillo",
+                "about": "Calvillo is known for its rich cultural heritage and beautiful landscapes. It earned the title of Pueblo Mágico due to its historic charm, traditional architecture, and significant contributions to the regional culture.",
+                "mustDoActivities": ["Visit the Parish of Our Lady of Guadalupe: Admire the stunning baroque architecture and intricate interior designs.", "Enjoy a peaceful day by the water, with opportunities for boating and fishing.", "Explore the Calvillo Dam: Taste the Local Guava Products: Calvillo is famous for its guava-based sweets and products. Visit local shops and markets to sample these delicacies."],
+                "imageName": "Calvillo"
+            },
+            {
+                "name": "Pabellon de Hidalgo",
+                "about": "Pabellón de Hidalgo is celebrated for its historical significance and picturesque settings. It became a Pueblo Mágico because of its role in the Mexican War of Independence and its well-preserved historical sites.",
+                "mustDoActivities": ["Tour the Museum of the Insurgency: Learn about the town's pivotal role in Mexico's fight for independence.",
+                    "Stroll Through the Town Square: Experience the local atmosphere and view the traditional architecture.",
+                    "Attend Local Festivals: Enjoy vibrant cultural events that highlight the town’s heritage and traditions."],
+                "imageName": "Pabellon de Hidalgo"
+            },
+            {
+                "name": "Real de Asientos",
+                "about": "Real de Asientos is a mining town with a rich colonial history. It was designated a Pueblo Mágico due to its historical architecture, mining heritage, and cultural significance.",
+                "mustDoActivities": ["Explore the Parish of Our Lady of Bethlehem: Visit this impressive colonial church and its underground tunnels.",
+                    "Visit the Museum of Mining: Gain insights into the town’s mining past and its impact on local development.",
+                    "Wander Through the Historic Center: Appreciate the well-preserved buildings and cobblestone streets that take you back in time."],
+                "imageName": "Real de Asientos"
+            },
+            {
+                "name": "San Jose de Gracia",
+                "about": "San José de Gracia is known for its natural beauty and religious significance. It became a Pueblo Mágico for its stunning landscapes and the iconic Christ the King monument.",
+                "mustDoActivities": ["Visit the Christ the King Statue: Enjoy panoramic views from this monumental statue overlooking the town.",
+                    "Explore the Plutarco Elías Calles Dam: Engage in water activities like fishing, boating, and picnicking by the dam.",
+                    "Experience the Local Cuisine: Taste traditional dishes at local eateries and immerse yourself in the town’s culinary heritage."],
+                "imageName": "San Jose de Gracia"
+            }
+        ]
+    },
+    {
+        "name": "Baja California",
+        "pueblosMagicos": [
+            {
+                "name": "Tecate",
+                "about": "Tecate is a charming border town known for its vibrant culture and beautiful landscapes. It earned the title of Pueblo Mágico due to its rich history, cultural traditions, and significant contributions to the regional economy.",
+                            "mustDoActivities": [
+                                "Visit the Tecate Brewery: Take a tour of the famous brewery and taste the local beer.",
+                                "Explore the Parque Miguel Hidalgo: Enjoy a relaxing day in this beautiful park located in the heart of Tecate.",
+                                "Hike in the Sierra de Juárez: Discover the natural beauty of the surrounding mountains with various hiking trails."
+                            ],
+                "imageName": "Tecate"
+            }
+        ]
+    },
+    {
+        "name": "Baja California Sur",
+        "pueblosMagicos": [
+            {
+                "name": "Loreto",
+                "about": "Loreto is known for its stunning coastal beauty and historical significance as one of the first Spanish settlements in the region. It became a Pueblo Mágico due to its well-preserved colonial architecture and vibrant marine life.",
+                            "mustDoActivities": [
+                                "Visit the Loreto Bay National Marine Park: Explore the rich marine biodiversity through snorkeling and diving.",
+                                "Tour the Mission of Our Lady of Loreto: Learn about the town's history at this historic mission church.",
+                                "Go Whale Watching: Experience the majestic sight of whales in their natural habitat during migration season."
+                            ],
+                "imageName": "Loreto"
+            },
+            {
+                "name": "Santa Rosalia",
+                "about": "Santa Rosalía is a unique town known for its French influence and mining history. It was named a Pueblo Mágico for its distinctive architecture, cultural heritage, and historical significance.",
+                           "mustDoActivities": [
+                               "Visit the Church of Santa Bárbara: See this prefabricated iron church designed by Gustave Eiffel.",
+                               "Explore the Mining Museum: Learn about the town's mining history and its impact on the region.",
+                               "Stroll Through the Historic Center: Admire the French-inspired wooden houses and other architectural gems."
+                           ],
+                "imageName": "Santa Rosalia"
+            },
+            {
+                "name": "Todos Santos",
+                "about": "Todos Santos is a vibrant artistic community with a rich cultural scene and beautiful beaches. It earned the title of Pueblo Mágico for its artistic atmosphere, historic buildings, and natural beauty.",
+                           "mustDoActivities": [
+                               "Visit the Todos Santos Cultural Center: Discover local art and cultural exhibits.",
+                               "Surf at Playa Cerritos: Enjoy one of the best surf spots in the region.",
+                               "Tour the Historic Mission Church: Learn about the town's history and religious heritage."
+                           ],
+                "imageName": "Todos Santos"
+            }
+        ]
+    },
+    {
+        "name": "Campeche",
+        "pueblosMagicos": [
+            {
+                "name": "Candelaria",
+                "about": "Candelaria is known for its rich cultural heritage and beautiful natural surroundings. It became a Pueblo Mágico due to its historical significance, traditional architecture, and vibrant local traditions.",
+                            "mustDoActivities": [
+                                "Visit the Candelaria River: Enjoy a boat ride and explore the lush surroundings.",
+                                "Explore the Archaeological Zone of El Tigre: Discover ancient Mayan ruins and learn about the region's history.",
+                                "Attend the Candelaria Festival: Experience the local culture through music, dance, and traditional food."
+                            ],
+                "imageName": "Candelaria"
+            },
+            {
+                "name": "Isla Aguada",
+                "about": "Isla Aguada is a picturesque fishing village known for its beautiful beaches and rich marine life. It was designated a Pueblo Mágico for its serene landscapes, cultural heritage, and biodiversity.",
+                            "mustDoActivities": [
+                                "Relax on the Beaches: Enjoy the pristine sand and clear waters of Isla Aguada's beaches.",
+                                "Visit the Dolphin Sanctuary: Take a boat tour to see dolphins in their natural habitat.",
+                                "Explore the Isla Aguada Lighthouse: Climb to the top for stunning views of the coast and surrounding area."
+                            ],
+                "imageName": "Isla Aguada"
+            },
+            {
+                "name": "Palizada",
+                "about": "Palizada is a charming town known for its colorful colonial buildings and riverside setting. It became a Pueblo Mágico due to its unique architectural style, cultural traditions, and picturesque scenery.",
+                            "mustDoActivities": [
+                                "Stroll Along the Palizada River: Enjoy a peaceful walk along the riverbanks and take in the scenic views.",
+                                "Visit the Church of San Joaquin: Admire the beautiful architecture and historical significance of this colonial church.",
+                                "Explore the Town's Colorful Streets: Wander through the vibrant streets and see the well-preserved colonial buildings."
+                            ],
+                "imageName": "Palizada"
+            }
+        ]
+    },
+    {
+        "name": "Chiapas",
+        "pueblosMagicos": [
+            {
+                "name": "Chiapa de Corzo",
+                "about": "Chiapa de Corzo is known for its rich cultural heritage and beautiful colonial architecture. It was named a Pueblo Mágico due to its historical significance, traditional crafts, and vibrant festivals.",
+                            "mustDoActivities": [
+                                "Visit the Fountain of the Chiapa de Corzo: Admire this iconic Mudejar-style fountain in the town square.",
+                                "Explore the Sumidero Canyon: Take a boat tour through this stunning natural wonder.",
+                                "Attend the Parachico Festival: Experience the colorful and lively Parachico Festival, a UNESCO Intangible Cultural Heritage event."
+                            ],
+                "imageName": "Chiapa de Corzo"
+            },
+            {
+                "name": "Comitan",
+                "about": "Comitán is a charming town known for its colonial architecture and nearby natural attractions. It became a Pueblo Mágico for its cultural heritage, historical significance, and natural beauty.",
+                            "mustDoActivities": [
+                                "Visit the Santo Domingo Church: Explore this beautiful colonial-era church.",
+                                "Explore the Lagunas de Montebello: Discover the stunning lakes and enjoy activities like kayaking and hiking.",
+                                "Visit the Chiflón Waterfalls: Marvel at these impressive waterfalls and enjoy the surrounding nature."
+                            ],
+                "imageName": "Comitan"
+            },
+            {
+                "name": "Copainala",
+                "about": "Copainalá is known for its rich indigenous heritage and beautiful landscapes. It was designated a Pueblo Mágico due to its cultural traditions, historical sites, and natural beauty.",
+                            "mustDoActivities": [
+                                "Explore the Church of San Miguel: Admire the beautiful architecture and historical significance.",
+                                "Visit the Caves of Copainalá: Discover the fascinating caves and learn about their historical importance.",
+                                "Experience the Local Festivals: Enjoy traditional music, dance, and food during the town's festivals."
+                            ],
+                "imageName": "Copainala"
+            },
+            {
+                "name": "Ocozocoautla de Espinosa",
+                "about": "Ocozocoautla de Espinosa is a town with a rich cultural heritage and beautiful natural surroundings. It became a Pueblo Mágico for its historical significance, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Explore this historic church and its beautiful architecture.",
+                                "Explore the El Aguacero Waterfall: Enjoy the stunning natural beauty of this waterfall and the surrounding area.",
+                                "Attend the Fiesta Grande de Chiapa: Experience the town's most important festival with traditional music, dance, and food."
+                            ],
+                "imageName": "Ocozocoautla de Espinosa"
+            },
+            {
+                "name": "Palenque",
+                "about": "Palenque is famous for its impressive Mayan ruins and lush jungle setting. It was named a Pueblo Mágico due to its archaeological significance, cultural heritage, and natural beauty.",
+                            "mustDoActivities": [
+                                "Explore the Palenque Archaeological Zone: Discover the stunning Mayan ruins and learn about their history.",
+                                "Visit the Aluxes EcoPark: Experience the local wildlife and natural beauty in this eco-park.",
+                                "Take a Day Trip to Agua Azul: Marvel at the stunning blue waterfalls and enjoy swimming in the natural pools."
+                            ],
+                "imageName": "Palenque"
+            },
+            {
+                "name": "San Cristobal de las Casas",
+                "about": "San Cristóbal de las Casas is known for its colonial architecture, vibrant indigenous culture, and beautiful surroundings. It became a Pueblo Mágico for its historical significance, cultural diversity, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Stroll Through the Historic Center: Wander through the cobblestone streets and admire the colonial buildings.",
+                                "Visit the Santo Domingo Church: Explore this stunning church and the attached textile museum.",
+                                "Shop at the Local Markets: Discover traditional crafts, textiles, and local foods at the town's markets."
+                            ],
+                "imageName": "San Cristobal de las Casas"
+            }
+        ]
+    },
+    {
+        "name": "Chihuahua",
+        "pueblosMagicos": [
+            {
+                "name": "Batopilas",
+                "about": "Batopilas is a remote mining town known for its scenic beauty and historical significance. It was named a Pueblo Mágico due to its well-preserved colonial architecture, rich mining history, and stunning canyon landscapes.",
+                            "mustDoActivities": [
+                                "Explore the Batopilas Canyon: Take in the breathtaking views and enjoy hiking trails.",
+                                "Visit the Church of Our Lady of Carmen: Admire the beautiful colonial architecture.",
+                                "Discover the Hacienda San Miguel: Learn about the town's mining history at this historic hacienda."
+                            ],
+                "imageName": "Batopilas"
+            },
+            {
+                "name": "Casas Grandes",
+                "about": "Casas Grandes is famous for its archaeological sites and pottery tradition. It became a Pueblo Mágico for its cultural heritage, historical significance, and unique local crafts.",
+                            "mustDoActivities": [
+                                "Visit Paquimé Archaeological Zone: Explore the impressive ruins of this ancient civilization.",
+                                "Discover Mata Ortiz Pottery: See the beautiful handcrafted pottery and meet local artisans.",
+                                "Tour the Casas Grandes Museum: Learn about the region's history and culture."
+                            ],
+                "imageName": "Casas Grandes"
+            },
+            {
+                "name": "Creel",
+                "about": "Creel is a charming mountain town known for its natural beauty and indigenous culture. It was designated a Pueblo Mágico due to its scenic landscapes, cultural diversity, and outdoor recreational opportunities.",
+                            "mustDoActivities": [
+                                "Explore the Copper Canyon: Take a scenic train ride or hike through this stunning canyon.",
+                                "Visit the Valley of the Mushrooms and Frogs: See the unique rock formations shaped like mushrooms and frogs.",
+                                "Learn About the Tarahumara Culture: Visit local villages and experience the indigenous culture."
+                            ],
+                "imageName": "Creel"
+            },
+            {
+                "name": "Guachochi",
+                "about": "Guachochi is known for its breathtaking natural landscapes and rich indigenous heritage. It became a Pueblo Mágico for its cultural traditions, scenic beauty, and opportunities for outdoor adventure.",
+                            "mustDoActivities": [
+                                "Hike to the Sinforosa Canyon: Experience the stunning views and natural beauty of this canyon.",
+                                "Visit the Mission of San Ignacio: Explore the historic mission and learn about the region's history.",
+                                "Attend the Semana Santa Celebrations: Experience the vibrant cultural traditions and festivities."
+                            ],
+                "imageName": "Guachochi"
+            },
+            {
+                "name": "Hidalgo del Parral",
+                "about": "Hidalgo del Parral is a historic mining town with a rich cultural heritage. It was named a Pueblo Mágico for its colonial architecture, mining history, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Explore the Historic Center: Walk through the streets and admire the colonial buildings.",
+                                "Visit the Alvarado Palace: Learn about the town's history at this beautiful palace.",
+                                "Discover the Mina La Prieta: Take a tour of this historic mine and learn about the mining industry."
+                            ],
+                "imageName": "Hidalgo del Parral"
+            }
+        ]
+    },
+    {
+        "name": "Coahuila",
+        "pueblosMagicos": [
+            {
+                "name": "Arteaga",
+                "about": "Arteaga is known for its picturesque landscapes and charming mountain villages. It was designated a Pueblo Mágico for its natural beauty, traditional crafts, and outdoor recreational opportunities.",
+                            "mustDoActivities": [
+                                "Visit the Sierra de Arteaga: Enjoy hiking and nature walks in the beautiful mountains.",
+                                "Explore the Apple Orchards: Taste fresh apples and apple-based products from local farms.",
+                                "Discover the Arteaga Cultural Center: Learn about the town's history and cultural heritage."
+                            ],
+                "imageName": "Arteaga"
+            },
+            {
+                "name": "Candela",
+                "about": "Candela is a quaint town with a rich historical heritage and beautiful natural surroundings. It became a Pueblo Mágico for its colonial architecture, hot springs, and cultural traditions.",
+                            "mustDoActivities": [
+                                "Relax in the Hot Springs: Enjoy a soothing soak in the natural hot springs.",
+                                "Visit the Candela Church: Admire the beautiful architecture and historical significance.",
+                                "Explore the Candela Canyon: Take in the stunning views and enjoy outdoor activities like hiking and picnicking."
+                            ],
+                "imageName": "Candela"
+            },
+            {
+                "name": "Cuatro Cienegas",
+                "about": "Cuatro Ciénegas is famous for its unique ecosystems and beautiful landscapes. It was designated a Pueblo Mágico for its natural beauty, biodiversity, and cultural heritage.",
+                           "mustDoActivities": [
+                               "Visit the Cuatro Ciénegas Natural Reserve: Explore the unique ecosystems and enjoy outdoor activities.",
+                               "Swim in the Poza Azul: Take a dip in the crystal-clear waters of this natural pool.",
+                               "Discover the Venustiano Carranza Museum: Learn about the town's history and its role in the Mexican Revolution."
+                           ],
+                "imageName": "Cuatro Cienegas"
+            },
+            {
+                "name": "General Cepeda",
+                "about": "General Cepeda is a charming town known for its colonial architecture and rich cultural heritage. It was named a Pueblo Mágico for its historical significance, traditional crafts, and beautiful landscapes.",
+                            "mustDoActivities": [
+                                "Visit the General Cepeda Main Square: Enjoy a relaxing stroll through the town's picturesque square.",
+                                "Explore the Church of San Francisco de Asís: Admire the beautiful architecture and historical significance.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities."
+                            ],
+                "imageName": "General Cepeda"
+            },
+            {
+                "name": "Guerrero",
+                "about": "Guerrero is known for its historical significance and beautiful natural surroundings. It became a Pueblo Mágico for its rich cultural heritage, historical sites, and outdoor recreational opportunities.",
+                            "mustDoActivities": [
+                                "Visit the Guerrero Mission: Explore this historic mission and learn about the town's history.",
+                                "Discover the Piedras Pintas: See the ancient rock art and petroglyphs.",
+                                "Enjoy Outdoor Activities: Explore the natural beauty of the surrounding area through hiking, bird watching, and picnicking."
+                            ],
+                "imageName": "Guerrero"
+            },
+            {
+                "name": "Muzquiz",
+                "about": "Múzquiz is a historic town known for its rich cultural heritage and beautiful natural surroundings. It was named a Pueblo Mágico for its colonial architecture, cultural traditions, and scenic landscapes.",
+                           "mustDoActivities": [
+                               "Visit the Múzquiz Main Square: Enjoy a relaxing stroll through the town's picturesque square.",
+                               "Explore the Church of Santa Rosa de Lima: Admire the beautiful architecture and historical significance.",
+                               "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities."
+                           ],
+                "imageName": "Muzquiz"
+            },
+            {
+                "name": "Parras",
+                "about": "Parras is known for its rich wine-making tradition and beautiful colonial architecture. It was designated a Pueblo Mágico for its cultural heritage, historical significance, and scenic vineyards.",
+                            "mustDoActivities": [
+                                "Visit the Casa Madero Winery: Take a tour of the oldest winery in the Americas and taste their wines.",
+                                "Explore the Historic Center: Walk through the picturesque streets and admire the colonial buildings.",
+                                "Discover the Estanque de la Luz: Enjoy the natural beauty of this historic pond and its surroundings."
+                            ],
+                "imageName": "Parras"
+            },
+            {
+                "name": "Viesca",
+                "about": "Viesca is a quaint town known for its rich historical heritage and beautiful natural surroundings. It became a Pueblo Mágico for its colonial architecture, cultural traditions, and scenic landscapes.",
+                            "mustDoActivities": [
+                                "Visit the Church of Santiago Apóstol: Admire the beautiful architecture and historical significance.",
+                                "Explore the Dunas de Bilbao: Discover the stunning sand dunes and enjoy outdoor activities like sandboarding and hiking.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities."
+                            ],
+                "imageName": "Viesca"
+            }
+        ]
+    },
+    {
+        "name": "Colima",
+        "pueblosMagicos": [
+            {
+                "name": "Comala",
+                "about": "Comala is known for its picturesque white buildings and vibrant cultural scene. It was designated a Pueblo Mágico due to its colonial architecture, lush landscapes, and rich cultural traditions.",
+                            "mustDoActivities": [
+                                "Visit the Main Square: Enjoy the charming ambiance and beautiful white buildings that give Comala its nickname, the 'White Town of America.'",
+                                "Explore the Nogueras Hacienda: Discover this historic hacienda and its museum dedicated to Alejandro Rangel Hidalgo, a famous local artist.",
+                                "Taste the Local Cuisine: Savor traditional dishes and drinks at the local restaurants and cafes, especially the ponche and botanas."
+                            ],
+                "imageName": "Comala"
+            }
+        ]
+    },
+    {
+        "name": "Durango",
+        "pueblosMagicos": [
+            {
+                "name": "Mapimi",
+                "about": "Mapimí is a historic mining town known for its rich cultural heritage and unique natural landscapes. It was designated a Pueblo Mágico for its historical significance, colonial architecture, and the nearby Mapimí Silent Zone.",
+                            "mustDoActivities": [
+                                "Visit the Ojuela Bridge: Explore this historic suspension bridge and the nearby ghost town.",
+                                "Discover the Mapimí Silent Zone: Learn about the mysterious phenomena associated with this unique area.",
+                                "Explore the Santiago Apóstol Church: Admire the beautiful colonial architecture and historical significance of this church."
+                            ],
+                "imageName": "Mapimi"
+            },
+            {
+                "name": "Nombre de Dios",
+                "about": "Nombre de Dios is known for its beautiful colonial architecture and natural attractions. It became a Pueblo Mágico due to its historical significance, cultural traditions, and scenic landscapes.",
+                            "mustDoActivities": [
+                                "Visit the Nombre de Dios Waterfalls: Enjoy the stunning natural beauty and take a refreshing dip in the pools.",
+                                "Explore the Historic Center: Wander through the charming streets and admire the colonial buildings.",
+                                "Discover the Church of San Pedro Apóstol: Visit this beautiful church and learn about its historical importance."
+                            ],
+                "imageName": "Nombre de Dios"
+            }
+        ]
+    },
+    {
+        "name": "Guanajuato",
+        "pueblosMagicos": [
+            {
+                "name": "Comonfort",
+                "about": "Comonfort is known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico due to its historical significance, traditional crafts, and charming colonial architecture.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Francisco de Asís: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Chamacuero Hill: Enjoy panoramic views of the town and surrounding areas.",
+                                "Discover the Molcajete Handicrafts: Learn about the traditional production of molcajetes (stone mortars) and purchase one as a unique souvenir."
+                            ],
+                "imageName": "Comonfort"
+            },
+            {
+                "name": "Dolores Hidalgo",
+                "about": "Dolores Hidalgo is a town of great historical importance as the birthplace of Mexico's independence movement. It was named a Pueblo Mágico for its rich history, cultural heritage, and beautiful colonial architecture.",
+                            "mustDoActivities": [
+                                "Visit the Dolores Hidalgo Church: Explore the church where Miguel Hidalgo made his famous call for independence.",
+                                "Tour the José Alfredo Jiménez Museum: Learn about the life and works of the famous Mexican singer-songwriter.",
+                                "Taste the Local Ice Cream: Enjoy unique and delicious ice cream flavors at the town's famous ice cream shops."
+                            ],
+                "imageName": "Dolores Hidalgo"
+            },
+            {
+                "name": "Jalpa de Canovas",
+                "about": "Jalpa de Cánovas is a charming town known for its well-preserved colonial architecture and beautiful landscapes. It became a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Our Lady of Guadalupe: Admire the stunning architecture and historical importance of this church.",
+                                "Explore the Jalpa de Cánovas Hacienda: Discover the history and beauty of this historic hacienda.",
+                                "Walk Through the Town's Gardens: Enjoy the lush gardens and peaceful ambiance of the town."
+                            ],
+                "imageName": "Jalpa de Canovas"
+            },
+            {
+                "name": "Mineral de Pozos",
+                "about": "Mineral de Pozos is a historic mining town with a rich cultural heritage and beautiful landscapes. It was designated a Pueblo Mágico for its well-preserved ruins, cultural traditions, and scenic surroundings.",
+                            "mustDoActivities": [
+                                "Explore the Mining Ruins: Discover the history and beauty of the town's abandoned mines and buildings.",
+                                "Visit the Santa Brigida Church: Admire the architecture and learn about the town's religious history.",
+                                "Attend the Mariachi Festival: Experience the vibrant music and culture of this annual festival."
+                            ],
+                "imageName": "Mineral de Pozos"
+            },
+            {
+                "name": "Salvatierra",
+                "about": "Salvatierra is known for its beautiful colonial architecture and rich cultural heritage. It became a Pueblo Mágico for its historical significance, traditional crafts, and charming atmosphere.",
+                            "mustDoActivities": [
+                                "Visit the Church and Convent of San Francisco: Admire the stunning architecture and historical significance of this site.",
+                                "Explore the Batanes Bridge: Walk across this historic bridge and enjoy the scenic views of the Lerma River.",
+                                "Discover the Salvatierra Cultural Center: Learn about the town's history and culture through its exhibits and events."
+                            ],
+                "imageName": "Salvatierra"
+            },
+            {
+                "name": "Yuriria",
+                "about": "Yuriria is a charming town known for its beautiful lake and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Yuriria Lake: Enjoy activities like fishing, boating, and bird watching.",
+                                "Explore the Convent of San Agustín: Admire the beautiful architecture and learn about the town's religious history.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Yuriria"
+            }
+        ]
+    },
+    {
+        "name": "Guerrero",
+        "pueblosMagicos": [
+            {
+                "name": "Ixcateopan de Cuauhtemoc",
+                "about": "Ixcateopan de Cuauhtémoc is known for its rich history and cultural heritage. It was designated a Pueblo Mágico due to its historical significance as the final resting place of the last Aztec emperor, Cuauhtémoc.",
+                            "mustDoActivities": [
+                                "Visit the Church of Santa María de la Asunción: Explore the church where the remains of Cuauhtémoc are believed to be buried.",
+                                "Discover the Ixcateopan Museum: Learn about the town's history and its significance in Aztec culture.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Ixcateopan de Cuauhtemoc"
+            },
+            {
+                "name": "Taxco",
+                "about": "Taxco is a picturesque town known for its silver mines and colonial architecture. It became a Pueblo Mágico for its rich mining history, beautiful buildings, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the Santa Prisca Church: Admire the stunning baroque architecture of this iconic church.",
+                                "Explore the Silver Shops: Discover the town's famous silver jewelry and crafts.",
+                                "Take a Cable Car Ride: Enjoy panoramic views of Taxco and its surrounding landscapes."
+                            ],
+                "imageName": "Taxco"
+            },
+            {
+                "name": "Zihuatanejo",
+                "about": "Zihuatanejo is a charming coastal town known for its beautiful beaches and relaxed atmosphere. It was designated a Pueblo Mágico for its scenic beauty, vibrant culture, and excellent tourist amenities.",
+                            "mustDoActivities": [
+                                "Relax on La Ropa Beach: Enjoy the sun, sand, and sea at one of Zihuatanejo's most popular beaches.",
+                                "Visit the Archaeological Museum of the Costa Grande: Learn about the region's history and indigenous cultures.",
+                                "Explore the Town's Markets: Discover local crafts, foods, and souvenirs at the bustling markets."
+                            ],
+                "imageName": "Zihuatanejo"
+            }
+        ]
+    },
+    {
+        "name": "Hidalgo",
+        "pueblosMagicos": [
+            {
+                "name": "Acaxochitlan",
+                "about": "Acaxochitlán is known for its beautiful natural surroundings and rich cultural heritage. It became a Pueblo Mágico due to its scenic landscapes, traditional crafts, and vibrant cultural traditions.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Miguel Arcángel: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Acaxochitlán Forest: Enjoy outdoor activities like hiking and picnicking in this lush forest.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Acaxochitlan"
+            },
+            {
+                "name": "Huasca de Ocampo",
+                "about": "Huasca de Ocampo is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Basaltic Prisms: Marvel at these unique geological formations and enjoy the surrounding waterfalls.",
+                                "Explore the Hacienda de Santa María Regla: Discover the history and beauty of this historic hacienda.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Huasca de Ocampo"
+            },
+            {
+                "name": "Huichapan",
+                "about": "Huichapan is known for its beautiful colonial architecture and rich cultural heritage. It became a Pueblo Mágico for its historical significance, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Aqueduct of Huichapan: Admire the impressive colonial aqueduct and learn about its historical significance.",
+                                "Explore the Church of San Mateo: Discover the beautiful architecture and historical importance of this church.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Huichapan"
+            },
+            {
+                "name": "Metztitlan",
+                "about": "Metztitlán is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Metztitlán Canyon: Explore the stunning natural beauty of this canyon and enjoy outdoor activities.",
+                                "Discover the Ex-Convent of San Pedro: Learn about the town's history and admire the beautiful architecture of this ex-convent.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Metztitlan"
+            },
+            {
+                "name": "Mineral del Chico",
+                "about": "Mineral del Chico is a historic mining town with a rich cultural heritage and beautiful landscapes. It was designated a Pueblo Mágico for its well-preserved colonial architecture, mining history, and scenic surroundings.",
+                            "mustDoActivities": [
+                                "Explore the El Chico National Park: Enjoy hiking, rock climbing, and picnicking in this beautiful national park.",
+                                "Visit the Church of the Immaculate Conception: Admire the beautiful architecture and historical significance of this church.",
+                                "Discover the Mining Museum: Learn about the town's mining history and its impact on the region."
+                            ],
+                "imageName": "Mineral del Chico"
+            },
+            {
+                "name": "Real del Monte",
+                "about": "Real del Monte is a historic mining town known for its rich cultural heritage and beautiful landscapes. It became a Pueblo Mágico for its well-preserved colonial architecture, mining history, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the Mining Museum: Learn about the town's rich mining history and its significance in the region.",
+                                "Explore the Panteón Inglés: Discover the historic English cemetery and its unique tombstones.",
+                                "Try the Local Pastes: Enjoy these delicious pastries, a local specialty influenced by British miners."
+                            ],
+                "imageName": "Real del Monte"
+            },
+            {
+                "name": "Tecozautla",
+                "about": "Tecozautla is a charming town known for its natural hot springs and rich cultural heritage. It was designated a Pueblo Mágico for its scenic landscapes, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Relax in the Hot Springs: Enjoy a soothing soak in the town's natural hot springs.",
+                                "Visit the Clock Tower: Admire the beautiful architecture and historical significance of this iconic landmark.",
+                                "Explore the Archaeological Zone of Pahñú: Discover the ancient ruins and learn about the region's pre-Hispanic history."
+                            ],
+                "imageName": "Tecozautla"
+            },
+            {
+                "name": "Zempoala",
+                "about": "Zempoala is known for its rich history and beautiful natural surroundings. It became a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Bartolomé: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Zempoala Lagoon: Enjoy outdoor activities like boating and bird watching in this scenic lagoon.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Zempoala"
+            },
+            {
+                "name": "Zimapán",
+                "about": "Zimapán is a historic town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its well-preserved colonial architecture, mining history, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the Zimapán Dam: Enjoy the stunning views and outdoor activities like fishing and boating.",
+                                "Explore the Church of San Juan Bautista: Admire the beautiful architecture and historical significance of this church.",
+                                "Discover the Mining Museum: Learn about the town's mining history and its impact on the region."
+                            ],
+                "imageName": "Zimapán"
+            }
+        ]
+    },
+    {
+        "name": "Jalisco",
+        "pueblosMagicos": [
+            {
+                "name": "Mazamitla",
+                "about": "Mazamitla is known for its beautiful mountain landscapes and charming wooden cabins. It was designated a Pueblo Mágico for its scenic beauty, traditional architecture, and outdoor recreational opportunities.",
+                            "mustDoActivities": [
+                                "Visit the El Salto Waterfall: Enjoy the stunning natural beauty and hiking trails around the waterfall.",
+                                "Explore the Mazamitla Town Center: Stroll through the picturesque streets and admire the traditional wooden cabins.",
+                                "Attend the Mazamitla Fair: Experience the vibrant cultural traditions, music, and food during the annual fair."
+                            ],
+                "imageName": "Mazamitla"
+            },
+            {
+                "name": "San Sebastian del Oeste",
+                "about": "San Sebastián del Oeste is a historic mining town known for its well-preserved colonial architecture and beautiful mountain scenery. It became a Pueblo Mágico for its rich history, cultural heritage, and scenic landscapes.",
+                            "mustDoActivities": [
+                                "Explore the Historic Center: Walk through the cobblestone streets and admire the colonial buildings.",
+                                "Visit the Hacienda Jalisco: Learn about the town's mining history at this historic hacienda.",
+                                "Take a Hike to Cerro de la Bufa: Enjoy panoramic views of the surrounding mountains and valleys."
+                            ],
+                "imageName": "San Sebastian del Oeste"
+            },
+            {
+                "name": "Sayula",
+                "about": "Sayula is known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the José Mojica Museum: Learn about the life and works of the famous Mexican singer and actor.",
+                                "Explore the Sayula Lagoon: Enjoy outdoor activities like fishing and bird watching in this scenic lagoon.",
+                                "Discover the Sayula Knife Factory: See the traditional production of handmade knives and purchase one as a unique souvenir."
+                            ],
+                "imageName": "Sayula"
+            },
+            {
+                "name": "Talpa de Allende",
+                "about": "Talpa de Allende is a charming town known for its religious significance and beautiful landscapes. It became a Pueblo Mágico for its rich cultural heritage, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Basilica of Our Lady of the Rosary: Admire the beautiful architecture and religious significance of this church.",
+                                "Explore the Talpa Museum: Learn about the town's history and cultural heritage.",
+                                "Take a Hike to La Cruz Hill: Enjoy panoramic views of the town and surrounding areas."
+                            ],
+                "imageName": "Talpa de Allende"
+            },
+            {
+                "name": "Tapalpa",
+                "about": "Tapalpa is known for its beautiful natural landscapes and charming colonial architecture. It was designated a Pueblo Mágico for its scenic beauty, traditional crafts, and outdoor recreational opportunities.",
+                            "mustDoActivities": [
+                                "Visit the Tapalpa Waterfalls: Enjoy the stunning natural beauty and hiking trails around the waterfalls.",
+                                "Explore the Tapalpa Town Center: Stroll through the picturesque streets and admire the colonial buildings.",
+                                "Attend the Tapalpa Fair: Experience the vibrant cultural traditions, music, and food during the annual fair."
+                            ],
+                "imageName": "Tapalpa"
+            },
+            {
+                "name": "Temacapulin",
+                "about": "Temacapulín is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Temacapulín Church: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Town's Streets: Enjoy the charming atmosphere and traditional architecture.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Temacapulin"
+            },
+            {
+                "name": "Tequila",
+                "about": "Tequila is a world-famous town known for its tequila production and beautiful agave landscapes. It was designated a Pueblo Mágico for its rich cultural heritage, historical significance, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit a Tequila Distillery: Take a tour of a local distillery and learn about the tequila-making process.",
+                                "Explore the Agave Fields: Enjoy the stunning views of the agave fields and learn about their importance to the region.",
+                                "Discover the Tequila Museum: Learn about the history and cultural significance of tequila in this informative museum."
+                            ],
+                "imageName": "Tequila"
+            },
+            {
+                "name": "Tlaquepaque",
+                "about": "Tlaquepaque is known for its vibrant arts and crafts scene and beautiful colonial architecture. It was designated a Pueblo Mágico for its rich cultural heritage, traditional crafts, and lively atmosphere.",
+                            "mustDoActivities": [
+                                "Visit the El Refugio Cultural Center: Explore this cultural center and its art exhibitions.",
+                                "Shop at the Local Markets: Discover traditional crafts, pottery, and textiles at the bustling markets.",
+                                "Stroll Through the Historic Center: Enjoy the charming streets and admire the colonial buildings."
+                            ],
+                "imageName": "Tlaquepaque"
+            },
+            {
+                "name": "Ajijic",
+                "about": "Ajijic is a picturesque town located on the shores of Lake Chapala, known for its beautiful scenery and vibrant arts community. It became a Pueblo Mágico for its scenic beauty, cultural diversity, and lively atmosphere.",
+                            "mustDoActivities": [
+                                "Walk Along the Malecón: Enjoy a leisurely stroll along the waterfront promenade with stunning views of Lake Chapala.",
+                                "Visit the Local Art Galleries: Explore the numerous art galleries showcasing works by local and international artists.",
+                                "Attend the Ajijic Cultural Festival: Experience the town's vibrant cultural traditions through music, dance, and art."
+                            ],
+                "imageName": "Ajijic"
+            },
+            {
+                "name": "Cocula",
+                "about": "Cocula is known as the birthplace of mariachi music and is celebrated for its rich cultural heritage and beautiful landscapes. It was designated a Pueblo Mágico for its musical traditions, historical significance, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Mariachi Museum: Learn about the history and cultural significance of mariachi music in this informative museum.",
+                                "Explore the Cocula Town Center: Stroll through the charming streets and admire the colonial architecture.",
+                                "Attend a Mariachi Performance: Experience the vibrant sounds of mariachi music in its birthplace."
+                            ],
+                "imageName": "Cocula"
+            },
+            {
+                "name": "Lagos de Moreno",
+                "about": "Lagos de Moreno is a historic town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the Parish of Our Lady of the Assumption: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Historic Center: Walk through the cobblestone streets and admire the colonial buildings.",
+                                "Discover the Agustín Rivera Museum: Learn about the town's history and cultural heritage through its exhibits."
+                            ],
+                "imageName": "Lagos de Moreno"
+            },
+            {
+                "name": "Mascota",
+                "about": "Mascota is a charming town known for its beautiful natural landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the La Preciosa Sangre de Cristo Church: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Mascota River: Enjoy outdoor activities like fishing and picnicking along the river.",
+                                "Discover the Pedro Moreno Museum: Learn about the town's history and cultural heritage through its exhibits."
+                            ],
+                "imageName": "Mascota"
+            }
+        ]
+    },
+    {
+        "name": "Mexico State",
+        "pueblosMagicos": [
+            {
+                "name": "Aculco",
+                "about": "Aculco is a charming town known for its colonial architecture and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Jerónimo: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Aculco Waterfalls: Enjoy the beautiful waterfalls and the surrounding natural landscape.",
+                                "Discover the Town's Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Aculco"
+            },
+            {
+                "name": "El Oro",
+                "about": "El Oro is a historic mining town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its mining history, beautiful buildings, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Mining Museum: Learn about the town's mining history and its impact on the region.",
+                                "Explore the Juárez Theater: Admire the stunning architecture of this historic theater.",
+                                "Walk Around Brockman Dam: Enjoy the beautiful scenery and outdoor activities like fishing and picnicking."
+                            ],
+                "imageName": "El Oro"
+            },
+            {
+                "name": "Ixtapan de la Sal",
+                "about": "Ixtapan de la Sal is known for its natural hot springs and beautiful landscapes. It became a Pueblo Mágico for its scenic beauty, traditional crafts, and relaxing hot springs.",
+                            "mustDoActivities": [
+                                "Relax in the Hot Springs: Enjoy a soothing soak in the town's natural hot springs.",
+                                "Visit the Aquatic Park: Have fun at the water park with pools, slides, and other attractions.",
+                                "Explore the Town's Streets: Stroll through the charming streets and admire the colonial architecture."
+                            ],
+                "imageName": "Ixtapan de la Sal"
+            },
+            {
+                "name": "Jilotepec",
+                "about": "Jilotepec is known for its beautiful natural landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Pedro and San Pablo: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Las Peñas Ecological Park: Enjoy outdoor activities like hiking and picnicking in this beautiful park.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Jilotepec"
+            },
+            {
+                "name": "Malinalco",
+                "about": "Malinalco is a charming town known for its well-preserved colonial architecture and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Malinalco Archaeological Zone: Explore the ancient ruins and learn about the town's pre-Hispanic history.",
+                                "Admire the Parish of the Divino Salvador: Discover the beautiful architecture and historical significance of this church.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Malinalco"
+            },
+            {
+                "name": "Metepec",
+                "about": "Metepec is known for its vibrant arts and crafts scene and beautiful colonial architecture. It was designated a Pueblo Mágico for its rich cultural heritage, traditional crafts, and lively atmosphere.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Town's Markets: Discover traditional crafts, pottery, and textiles at the bustling markets.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Metepec"
+            },
+            {
+                "name": "Otumba",
+                "about": "Otumba is known for its beautiful colonial architecture and rich cultural heritage. It became a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of La Purísima Concepción: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Otumba Bullring: Discover the history and cultural importance of this historic bullring.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Otumba"
+            },
+            {
+                "name": "San Martin de las Piramides",
+                "about": "San Martín de las Pirámides is a charming town known for its proximity to the Teotihuacan archaeological site. It was designated a Pueblo Mágico for its rich cultural heritage, historical significance, and beautiful landscapes.",
+                            "mustDoActivities": [
+                                "Visit the Teotihuacan Pyramids: Explore the impressive ancient ruins and learn about their historical significance.",
+                                "Discover the Town's Handicrafts: Purchase traditional crafts made by local artisans.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "San Martin de las Piramides"
+            },
+            {
+                "name": "Tepotzotlan",
+                "about": "Tepotzotlán is known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the National Museum of the Viceroyalty: Learn about Mexico's colonial history in this impressive museum.",
+                                "Explore the Tepotzotlán Aqueduct: Admire the stunning architecture of this historic aqueduct.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tepotzotlan"
+            },
+            {
+                "name": "Tonatico",
+                "about": "Tonatico is known for its natural hot springs and beautiful landscapes. It became a Pueblo Mágico for its scenic beauty, traditional crafts, and relaxing hot springs.",
+                            "mustDoActivities": [
+                                "Relax in the Tonatico Hot Springs: Enjoy a soothing soak in the town's natural hot springs.",
+                                "Visit the Parish of Our Lady of Tonatico: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Caves of La Estrella: Discover the stunning rock formations and underground rivers in these beautiful caves."
+                            ],
+                "imageName": "Tonatico"
+            },
+            {
+                "name": "Valle de Bravo",
+                "about": "Valle de Bravo is a picturesque town known for its beautiful lake and vibrant cultural scene. It was designated a Pueblo Mágico for its scenic beauty, cultural diversity, and lively atmosphere.",
+                            "mustDoActivities": [
+                                "Visit the Valle de Bravo Lake: Enjoy water activities like sailing, kayaking, and fishing.",
+                                "Explore the Monarch Butterfly Sanctuary: Witness the stunning migration of monarch butterflies in the nearby sanctuary.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Valle de Bravo"
+            },
+            {
+                "name": "Villa del Carbon",
+                "about": "Villa del Carbón is known for its beautiful natural landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Dam Miguel Alemán: Enjoy outdoor activities like fishing, boating, and picnicking in this scenic dam.",
+                                "Explore the Town's Handicrafts: Purchase traditional crafts made by local artisans.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Villa del Carbon"
+            }
+        ]
+    },
+    {
+        "name": "Michoacán",
+        "pueblosMagicos": [
+            {
+                "name": "Angangueo",
+                "about": "Angangueo is a charming mining town known for its rich history and stunning natural landscapes. It was designated a Pueblo Mágico for its historical significance, colonial architecture, and proximity to the Monarch Butterfly Biosphere Reserve.",
+                            "mustDoActivities": [
+                                "Visit the Monarch Butterfly Sanctuary: Witness the incredible sight of millions of monarch butterflies during their migration season.",
+                                "Explore the Mining Museum: Learn about the town's mining history and its impact on the region.",
+                                "Stroll Through the Historic Center: Enjoy the picturesque streets and well-preserved colonial buildings."
+                            ],
+                "imageName": "Angangueo"
+            },
+            {
+                "name": "Cotija",
+                "about": "Cotija is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its traditional crafts, historical significance, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Miguel Arcángel: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Cotija Cheese Production: Learn about the traditional process of making the famous Cotija cheese.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Cotija"
+            },
+            {
+                "name": "Cuitzeo del Porvenir",
+                "about": "Cuitzeo del Porvenir is a beautiful lakeside town known for its rich history and cultural heritage. It was designated a Pueblo Mágico for its well-preserved colonial architecture, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Ex-Convent of Santa María Magdalena: Explore the stunning architecture and historical significance of this convent.",
+                                "Walk Along the Shores of Lake Cuitzeo: Enjoy the beautiful views and tranquil atmosphere of this large lake.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Cuitzeo del Porvenir"
+            },
+            {
+                "name": "Jiquilpan",
+                "about": "Jiquilpan is a charming town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the House of José Clemente Orozco: Learn about the life and works of this famous Mexican muralist.",
+                                "Explore the Local Gardens: Enjoy the beautiful botanical gardens and public parks throughout the town.",
+                                "Stroll Through the Town's Streets: Admire the colonial architecture and traditional atmosphere."
+                            ],
+                "imageName": "Jiquilpan"
+            },
+            {
+                "name": "Paracho",
+                "about": "Paracho is known as the 'Guitar Capital of Mexico' due to its long tradition of handcrafted guitar making. It was designated a Pueblo Mágico for its rich cultural heritage, traditional crafts, and musical significance.",
+                            "mustDoActivities": [
+                                "Visit the Guitar Workshops: See the traditional process of making handcrafted guitars and purchase one as a unique souvenir.",
+                                "Explore the Guitar Museum: Learn about the history and cultural significance of guitar making in Paracho.",
+                                "Attend the Guitar Festival: Experience the vibrant music and cultural traditions during the annual guitar festival."
+                            ],
+                "imageName": "Paracho"
+            },
+            {
+                "name": "Patzcuaro",
+                "about": "Pátzcuaro is a historic town known for its beautiful colonial architecture and vibrant cultural scene. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and picturesque setting on the shores of Lake Pátzcuaro.",
+                            "mustDoActivities": [
+                                "Visit the Basilica of Our Lady of Health: Admire the stunning architecture and religious significance of this church.",
+                                "Explore the Janitzio Island: Take a boat ride to this iconic island and enjoy the beautiful views and local crafts.",
+                                "Stroll Through the Vasco de Quiroga Plaza: Experience the lively atmosphere and traditional architecture of this central plaza."
+                            ],
+                "imageName": "Patzcuaro"
+            },
+            {
+                "name": "Santa Clara del Cobre",
+                "about": "Santa Clara del Cobre is a picturesque town known for its rich tradition of copper craftsmanship. It was designated a Pueblo Mágico for its cultural heritage, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the National Copper Museum: Learn about the history and techniques of copper craftsmanship in Santa Clara.",
+                                "Explore the Local Workshops: See the artisans at work and purchase unique copper items.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Santa Clara del Cobre"
+            },
+            {
+                "name": "Tacambaro",
+                "about": "Tacámbaro is a charming town known for its beautiful natural landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Santa María Magdalena: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Tacámbaro Botanical Garden: Enjoy the beautiful plants and tranquil atmosphere of this garden.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tacambaro"
+            },
+            {
+                "name": "Tlalpujahua",
+                "about": "Tlalpujahua is a historic mining town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Mine Museum: Learn about the town's mining history and its impact on the region.",
+                                "Explore the Sanctuary of Carmen: Admire the stunning architecture and historical significance of this church.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Tlalpujahua"
+            },
+            {
+                "name": "Tzintzuntzan",
+                "about": "Tzintzuntzan is a historic town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Archaeological Zone: Explore the ancient ruins of the Purépecha Empire and learn about their history.",
+                                "Admire the Franciscan Monastery: Discover the stunning architecture and historical significance of this monastery.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tzintzuntzan"
+            }
+        ]
+    },
+    {
+        "name": "Morelos",
+        "pueblosMagicos": [
+            {
+                "name": "Tepoztlan",
+                "about": "Tepoztlán is a picturesque town known for its beautiful natural landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Hike to the Tepozteco Pyramid: Enjoy the stunning views and explore the ancient pyramid at the top of the hill.",
+                                "Visit the Tepoztlán Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Explore the Ex-Convent of the Nativity: Admire the beautiful architecture and historical significance of this convent."
+                            ],
+                "imageName": "Tepoztlan"
+            },
+            {
+                "name": "Tlaltizapan de Zapata",
+                "about": "Tlaltizapán de Zapata is a charming town known for its rich history and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, cultural heritage, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Museum of the Revolution of the South: Learn about the town's role in the Mexican Revolution and its connection to Emiliano Zapata.",
+                                "Explore the Las Estacas Natural Park: Enjoy outdoor activities like swimming, snorkeling, and picnicking in this beautiful park.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tlaltizapan de Zapata"
+            },
+            {
+                "name": "Tlayacapan",
+                "about": "Tlayacapan is known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Ex-Convent of San Juan Bautista: Admire the stunning architecture and historical significance of this convent.",
+                                "Explore the Local Markets: Discover traditional crafts, pottery, and textiles at the bustling markets.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Tlayacapan"
+            },
+            {
+                "name": "Xochitepec",
+                "about": "Xochitepec is a charming town known for its rich history and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, cultural heritage, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Hacienda de San Antonio el Puente: Explore the history and beauty of this historic hacienda.",
+                                "Relax in the Local Spas: Enjoy the soothing hot springs and spa treatments available in the area.",
+                                "Explore the Xochicalco Archaeological Zone: Discover the impressive ruins and learn about the region's pre-Hispanic history."
+                            ],
+                "imageName": "Xochitepec"
+            }
+        ]
+    },
+    {
+        "name": "Nayarit",
+        "pueblosMagicos": [
+            {
+                "name": "Ahuacatlan",
+                "about": "Ahuacatlán is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Francisco de Asís: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Ahuacatlán Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Ahuacatlan"
+            },
+            {
+                "name": "Amatlan de Cañas",
+                "about": "Amatlán de Cañas is known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Miguel Arcángel: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Hot Springs: Relax in the natural hot springs and enjoy the scenic surroundings.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Amatlan de Cañas"
+            },
+            {
+                "name": "Compostela",
+                "about": "Compostela is a picturesque town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of the Señor de la Misericordia: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Compostela Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Compostela"
+            },
+            {
+                "name": "Ixtlan del Rio",
+                "about": "Ixtlán del Río is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Ixtlán del Río Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Discover the Local Archaeological Zone: Explore the ancient ruins and learn about the region's pre-Hispanic history."
+                            ],
+                "imageName": "Ixtlan del Rio"
+            },
+            {
+                "name": "Jala",
+                "about": "Jala is a charming town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Basilica of Our Lady of the Assumption: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Jala Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Visit the Ceboruco Volcano: Enjoy the stunning natural beauty and hiking trails around this active volcano."
+                            ],
+                "imageName": "Jala"
+            },
+            {
+                "name": "Mexcaltitan",
+                "about": "Mexcaltitán is a unique island town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Mexcaltitán Museum: Learn about the town's history and cultural heritage.",
+                                "Explore the Island by Boat: Enjoy a boat ride around the island and take in the scenic views.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Mexcaltitan"
+            },
+            {
+                "name": "Puerto Balleto (Islas Marias)",
+                "about": "Puerto Balleto is a picturesque town located on the Islas Marías, known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Local Museum: Learn about the history and cultural heritage of the Islas Marías.",
+                                "Explore the Island by Boat: Enjoy a boat ride around the island and take in the scenic views.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Puerto Balleto (Islas Marias)"
+            },
+            {
+                "name": "San Blas",
+                "about": "San Blas is a charming coastal town known for its beautiful beaches and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the San Blas Fort: Explore the historic fort and learn about its significance in the region's history.",
+                                "Relax on the Beach: Enjoy the sun, sand, and sea at one of San Blas's beautiful beaches.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "San Blas"
+            },
+            {
+                "name": "Sayulita",
+                "about": "Sayulita is a vibrant coastal town known for its beautiful beaches, surfing culture, and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, lively atmosphere, and vibrant arts scene.",
+                            "mustDoActivities": [
+                                "Surf at Sayulita Beach: Enjoy the excellent surfing conditions and laid-back atmosphere.",
+                                "Explore the Town's Art Galleries: Discover works by local and international artists.",
+                                "Relax on the Beach: Enjoy the sun, sand, and sea at one of Sayulita's beautiful beaches."
+                            ],
+                "imageName": "Sayulita"
+            }
+        ]
+    },
+    {
+        "name": "Nuevo León",
+        "pueblosMagicos": [
+            {
+                "name": "Bustamante",
+                "about": "Bustamante is a picturesque town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Bustamante Caves: Explore the stunning limestone caves and enjoy the beautiful formations.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture.",
+                                "Taste the Local Bread: Try the famous 'pan de Bustamante' at the local bakeries."
+                            ],
+                "imageName": "Bustamante"
+            },
+            {
+                "name": "General Teran",
+                "about": "General Terán is known for its rich agricultural heritage and beautiful landscapes. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Local Orchards: Explore the town's orchards and taste the fresh fruits.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture.",
+                                "Attend Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "General Teran"
+            },
+            {
+                "name": "General Zaragoza",
+                "about": "General Zaragoza is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Iturbide Dam: Enjoy outdoor activities like fishing, boating, and picnicking in this scenic dam.",
+                                "Explore the Local Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "General Zaragoza"
+            },
+            {
+                "name": "Linares",
+                "about": "Linares is known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Cathedral of San Felipe Apóstol: Admire the stunning architecture and historical significance of this cathedral.",
+                                "Explore the Local Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Taste the Local Sweets: Try the famous 'glorias' and 'natillas' at the local sweet shops."
+                            ],
+                "imageName": "Linares"
+            },
+            {
+                "name": "Santiago",
+                "about": "Santiago is a picturesque town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Cola de Caballo Waterfall: Enjoy the stunning natural beauty and hiking trails around the waterfall.",
+                                "Explore the Santiago Town Center: Stroll through the picturesque streets and admire the colonial buildings.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions, music, and food during the annual festivals."
+                            ],
+                "imageName": "Santiago"
+            }
+        ]
+    },
+    {
+        "name": "Oaxaca",
+        "pueblosMagicos": [
+            {
+                "name": "Capulalpam",
+                "about": "Capulálpam de Méndez is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Mateo: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Capulálpam Ecotourism Park: Enjoy outdoor activities like hiking, bird watching, and picnicking in this beautiful park.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Capulalpam"
+            },
+            {
+                "name": "Huautla de Jimenez",
+                "about": "Huautla de Jiménez is known for its rich indigenous culture and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Evangelista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Huautla Caves: Discover the fascinating caves and learn about their historical importance.",
+                                "Experience the Local Festivals: Enjoy traditional music, dance, and food during the town's festivals."
+                            ],
+                "imageName": "Huautla de Jimenez"
+            },
+            {
+                "name": "Juquila",
+                "about": "Juquila is a picturesque town known for its religious significance and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Sanctuary of Our Lady of Juquila: Admire the stunning architecture and religious significance of this church.",
+                                "Explore the Town's Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Juquila"
+            },
+            {
+                "name": "Mazunte",
+                "about": "Mazunte is a vibrant coastal town known for its beautiful beaches, eco-tourism, and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, lively atmosphere, and commitment to sustainability.",
+                            "mustDoActivities": [
+                                "Visit the Mexican Turtle Center: Learn about sea turtle conservation and see various species of turtles.",
+                                "Relax on Mazunte Beach: Enjoy the sun, sand, and sea at one of Mazunte's beautiful beaches.",
+                                "Explore the Punta Cometa: Take a hike to this scenic viewpoint and enjoy breathtaking views of the Pacific Ocean."
+                            ],
+                "imageName": "Mazunte"
+            },
+            {
+                "name": "San Pablo Villa de Mitla",
+                "about": "San Pablo Villa de Mitla is known for its rich cultural heritage and stunning archaeological sites. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Mitla Archaeological Zone: Explore the ancient ruins and learn about their historical significance.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "San Pablo Villa de Mitla"
+            },
+            {
+                "name": "San Pedro y San Pablo Teposcolula",
+                "about": "San Pedro y San Pablo Teposcolula is a historic town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Open Chapel of San Pedro y San Pablo: Admire the stunning architecture and historical significance of this chapel.",
+                                "Explore the Town's Streets: Enjoy the charming atmosphere and well-preserved colonial buildings.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "San Pedro y San Pablo Teposcolula"
+            }
+        ]
+    },
+    {
+        "name": "Puebla",
+        "pueblosMagicos": [
+            {
+                "name": "Atlixco",
+                "about": "Atlixco is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Atlixco Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Explore the Convento del Carmen: Admire the stunning architecture and historical significance of this convent.",
+                                "Enjoy the Atlixco Flower Festival: Experience the vibrant cultural traditions and stunning flower displays during the annual festival."
+                            ],
+                "imageName": "Atlixco"
+            },
+            {
+                "name": "Chignahuapan",
+                "about": "Chignahuapan is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Basilica of the Immaculate Conception: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Chignahuapan Hot Springs: Relax in the natural hot springs and enjoy the scenic surroundings.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans, including the famous Christmas ornaments."
+                            ],
+                "imageName": "Chignahuapan"
+            },
+            {
+                "name": "Cholula",
+                "about": "Cholula is a historic town known for its impressive archaeological sites and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Great Pyramid of Cholula: Explore the ancient ruins and learn about their historical significance.",
+                                "Admire the Church of Our Lady of Remedies: Discover the stunning architecture and breathtaking views from this hilltop church.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Cholula"
+            },
+            {
+                "name": "Cuetzalan",
+                "about": "Cuetzalan is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Yohualichan Archaeological Site: Explore the ancient ruins and learn about their historical significance.",
+                                "Admire the Church of San Francisco: Discover the stunning architecture and historical importance of this church.",
+                                "Experience the Local Festivals: Enjoy traditional music, dance, and food during the town's vibrant festivals."
+                            ],
+                "imageName": "Cuetzalan"
+            },
+            {
+                "name": "Huauchinango",
+                "about": "Huauchinango is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Our Lady of Guadalupe: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Huauchinango Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Festival of Flowers: Experience the vibrant cultural traditions and stunning flower displays during the annual festival."
+                            ],
+                "imageName": "Huauchinango"
+            },
+            {
+                "name": "Huejotzingo",
+                "about": "Huejotzingo is a historic town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Ex-Convent of San Miguel Arcángel: Admire the stunning architecture and historical significance of this convent.",
+                                "Explore the Huejotzingo Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Carnival of Huejotzingo: Experience the vibrant cultural traditions and colorful parades during the annual carnival."
+                            ],
+                "imageName": "Huejotzingo"
+            },
+            {
+                "name": "Pahuatlan",
+                "about": "Pahuatlán is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Santiago Apóstol: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Pahuatlán Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Experience the Local Festivals: Enjoy traditional music, dance, and food during the town's vibrant festivals."
+                            ],
+                "imageName": "Pahuatlan"
+            },
+            {
+                "name": "Tetela de Ocampo",
+                "about": "Tetela de Ocampo is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Tetela Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tetela de Ocampo"
+            },
+            {
+                "name": "Teziutlan",
+                "about": "Teziutlán is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Cathedral of Our Lady of the Assumption: Admire the stunning architecture and historical significance of this cathedral.",
+                                "Explore the Teziutlán Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Teziutlan"
+            },
+            {
+                "name": "Tlatlauquitepec",
+                "about": "Tlatlauquitepec is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Santa María de la Asunción: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Tlatlauquitepec Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tlatlauquitepec"
+            },
+            {
+                "name": "Xicotepec",
+                "about": "Xicotepec is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Xicotepec Church: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Xicotepec Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture.",
+                                "See the Monumental Virgin Mary: Visit one of the largest Virgin Mary monuments in Mexico and enjoy the panoramic views.",
+                                "Tour the Coffee Plantations: Learn about the coffee production process and taste the locally grown coffee."
+                            ],
+                "imageName": "Xicotepec"
+            },
+            {
+                "name": "Zacatlan de las Manzanas",
+                "about": "Zacatlán de las Manzanas is a picturesque town known for its beautiful apple orchards and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Clock Museum: Learn about the history and significance of clock-making in Zacatlán.",
+                                "Explore the Apple Orchards: Enjoy the beautiful scenery and taste the fresh apples.",
+                                "Attend the Apple Festival: Experience the vibrant cultural traditions and stunning apple displays during the annual festival.",
+                                "Admire the Mosaic Walls: Stroll along the walls adorned with intricate mosaics depicting the town's history and culture."
+                            ],
+                "imageName": "Zacatlan de las Manzanas"
+            }
+        ]
+    },
+    {
+        "name": "Querétaro",
+        "pueblosMagicos": [
+            {
+                "name": "Amealco",
+                "about": "Amealco is a charming town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Amealco Doll Museum: Learn about the traditional handcrafted dolls and their cultural significance.",
+                                "Explore the Amealco Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Amealco"
+            },
+            {
+                "name": "Bernal",
+                "about": "Bernal is a picturesque town known for its impressive monolith, the Peña de Bernal. It was designated a Pueblo Mágico for its historical significance, scenic beauty, and vibrant cultural heritage.",
+                            "mustDoActivities": [
+                                "Climb the Peña de Bernal: Enjoy the stunning views from the top of this massive monolith.",
+                                "Visit the San Sebastián Church: Admire the beautiful architecture and historical significance of this church.",
+                                "Explore the Bernal Market: Discover traditional crafts, foods, and souvenirs at the bustling market."
+                            ],
+                "imageName": "Bernal"
+            },
+            {
+                "name": "Cadereyta",
+                "about": "Cadereyta is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Geobotanical Garden: Explore the diverse plant species and enjoy the scenic views.",
+                                "Explore the Cadereyta Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Cadereyta"
+            },
+            {
+                "name": "Jalpan de Serra",
+                "about": "Jalpan de Serra is a historic town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Mission of Santiago de Jalpan: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Jalpan River: Enjoy outdoor activities like swimming, kayaking, and picnicking along the river.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Jalpan de Serra"
+            },
+            {
+                "name": "Pinal de Amoles",
+                "about": "Pinal de Amoles is a picturesque town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Cuatro Palos Viewpoint: Enjoy breathtaking views of the surrounding mountains and valleys.",
+                                "Explore the Pinal de Amoles Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Pinal de Amoles"
+            },
+            {
+                "name": "San Joaquin",
+                "about": "San Joaquín is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Archaeological Zone of Ranas: Explore the ancient ruins and learn about their historical significance.",
+                                "Explore the San Joaquín Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Huapango Dance Contest: Experience the vibrant cultural traditions and lively dance performances during this annual event."
+                            ],
+                "imageName": "San Joaquin"
+            },
+            {
+                "name": "Tequisquiapan",
+                "about": "Tequisquiapan is a picturesque town known for its beautiful landscapes and vibrant cultural scene. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the La Pila Park: Enjoy the beautiful gardens and relaxing atmosphere of this central park.",
+                                "Explore the Tequisquiapan Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Relax in the Thermal Springs: Enjoy a soothing soak in the natural thermal springs in and around the town."
+                            ],
+                "imageName": "Tequisquiapan"
+            }
+        ]
+    },
+    {
+        "name": "Quintana Roo",
+        "pueblosMagicos": [
+            {
+                "name": "Bacalar",
+                "about": "Bacalar is known for its stunning lagoon, often called the 'Lake of Seven Colors,' and its rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, historical significance, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Bacalar Lagoon: Enjoy swimming, kayaking, and sailing in the crystal-clear waters.",
+                                "Explore the Fort of San Felipe: Learn about the history of the fort and enjoy panoramic views of the lagoon.",
+                                "Stroll Through the Town's Streets: Discover charming shops, cafes, and traditional architecture."
+                            ],
+                "imageName": "Bacalar"
+            },
+            {
+                "name": "Cozumel",
+                "about": "Cozumel is a beautiful island known for its world-class diving and snorkeling spots, as well as its rich cultural heritage. It was designated a Pueblo Mágico for its natural beauty, historical significance, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Dive or Snorkel in Cozumel's Reefs: Explore the stunning underwater world and marine life.",
+                                "Visit the San Gervasio Ruins: Discover the ancient Mayan ruins and learn about their historical significance.",
+                                "Relax on the Beaches: Enjoy the white sandy beaches and crystal-clear waters."
+                            ],
+                "imageName": "Cozumel"
+            },
+            {
+                "name": "Isla Mujeres",
+                "about": "Isla Mujeres is a picturesque island known for its beautiful beaches and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, historical significance, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit Playa Norte: Relax on one of the most beautiful beaches in the Caribbean.",
+                                "Explore the Underwater Museum of Art (MUSA): Snorkel or dive to see the unique underwater sculptures.",
+                                "Discover the Punta Sur: Enjoy the stunning views from the southern tip of the island and visit the ancient Mayan temple."
+                            ],
+                "imageName": "Isla Mujeres"
+            },
+            {
+                "name": "Tulum",
+                "about": "Tulum is a stunning coastal town known for its beautiful beaches, well-preserved Mayan ruins, and vibrant cultural scene. It was designated a Pueblo Mágico for its scenic beauty, historical significance, and lively atmosphere.",
+                            "mustDoActivities": [
+                                "Visit the Tulum Ruins: Explore the ancient Mayan ruins overlooking the Caribbean Sea.",
+                                "Relax on Tulum's Beaches: Enjoy the pristine white sand and turquoise waters.",
+                                "Explore the Cenotes: Swim and snorkel in the nearby cenotes (natural sinkholes) with crystal-clear water."
+                            ],
+                "imageName": "Tulum"
+            }
+        ]
+    },
+    {
+        "name": "San Luis Potosí",
+        "pueblosMagicos": [
+            {
+                "name": "Aquismon",
+                "about": "Aquismón is a charming town known for its stunning natural attractions and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, traditional crafts, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Visit the Cave of Swallows: Witness the incredible sight of thousands of birds flying in and out of this massive cave.",
+                                "Explore the Tamul Waterfall: Enjoy the breathtaking views and take a boat ride to the base of the waterfall.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Aquismon"
+            },
+            {
+                "name": "Ciudad del Maiz",
+                "about": "Ciudad del Maíz is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Nicolás de Tolentino: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Local Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Ciudad del Maiz"
+            },
+            {
+                "name": "Real de Catorce",
+                "about": "Real de Catorce is a historic mining town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Explore the Historic Center: Walk through the cobblestone streets and admire the colonial buildings.",
+                                "Visit the Palenque de Gallos: Discover the history and cultural importance of this historic bullring.",
+                                "Take a Horseback Ride to the Ghost Town: Experience the unique landscape and learn about the town's mining history."
+                            ],
+                "imageName": "Real de Catorce"
+            },
+            {
+                "name": "Santa Maria del Rio",
+                "about": "Santa María del Río is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of Our Lady of the Assumption: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Santa María del Río Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Santa Maria del Rio"
+            },
+            {
+                "name": "Tierra Nueva",
+                "about": "Tierra Nueva is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Isidro Labrador: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Local Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tierra Nueva"
+            },
+            {
+                "name": "Xilitla",
+                "about": "Xilitla is a picturesque town known for its surrealist garden and rich cultural heritage. It was designated a Pueblo Mágico for its scenic beauty, historical significance, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit Las Pozas: Explore the surrealist garden created by Edward James, with its unique sculptures and natural pools.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Xilitla"
+            }
+        ]
+    },
+    {
+        "name": "Sinaloa",
+        "pueblosMagicos": [
+            {
+                "name": "Cosala",
+                "about": "Cosalá is a historic town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Explore the Historic Center: Walk through the cobblestone streets and admire the colonial buildings.",
+                                "Visit the Vado Hondo Waterfall: Enjoy the stunning natural beauty and take a refreshing swim in the clear waters.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Cosala"
+            },
+            {
+                "name": "El Fuerte",
+                "about": "El Fuerte is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the El Fuerte Museum: Learn about the town's history and cultural heritage.",
+                                "Explore the El Fuerte River: Enjoy outdoor activities like kayaking and bird watching along the river.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "El Fuerte"
+            },
+            {
+                "name": "El Rosario",
+                "about": "El Rosario is a historic mining town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Nuestra Señora del Rosario Church: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Mining Museum: Learn about the town's mining history and its impact on the region.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "El Rosario"
+            },
+            {
+                "name": "Mocorito",
+                "about": "Mocorito is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Plaza de Armas: Enjoy the beautiful gardens and relaxing atmosphere of this central plaza.",
+                                "Explore the Mocorito Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Mocorito"
+            },
+            {
+                "name": "San Ignacio",
+                "about": "San Ignacio is a historic town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the San Ignacio Mission: Admire the stunning architecture and historical significance of this mission.",
+                                "Explore the Local Markets: Discover traditional crafts, foods, and souvenirs at the bustling markets.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "San Ignacio"
+            }
+        ]
+    },
+    {
+        "name": "Sonora",
+        "pueblosMagicos": [
+            {
+                "name": "Alamos",
+                "about": "Álamos is a picturesque town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Plaza de Armas: Enjoy the beautiful gardens and relaxing atmosphere of this central plaza.",
+                                "Explore the Museum of Sonoran History: Learn about the town's history and cultural heritage.",
+                                "Stroll Through the Town's Streets: Admire the charming colonial buildings and traditional architecture."
+                            ],
+                "imageName": "Alamos"
+            },
+            {
+                "name": "Magdalena de Kino",
+                "about": "Magdalena de Kino is a historic town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Plaza Monumental: Discover the beautiful plaza and its monuments dedicated to Father Kino.",
+                                "Explore the Church of Santa María Magdalena: Admire the stunning architecture and historical significance of this church.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Magdalena de Kino"
+            },
+            {
+                "name": "San Carlos",
+                "about": "San Carlos is a beautiful coastal town known for its stunning beaches and vibrant marine life. It was designated a Pueblo Mágico for its scenic beauty, outdoor recreational opportunities, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the San Carlos Marina: Explore the marina and enjoy the beautiful views of the Sea of Cortez.",
+                                "Relax on the Beaches: Enjoy the white sandy beaches and crystal-clear waters.",
+                                "Go Snorkeling or Diving: Discover the vibrant marine life and underwater landscapes."
+                            ],
+                "imageName": "San Carlos"
+            },
+            {
+                "name": "Ures",
+                "about": "Ures is a charming town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Miguel Arcángel: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Ures Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Ures"
+            }
+        ]
+    },
+    {
+        "name": "Tabasco",
+        "pueblosMagicos": [
+            {
+                "name": "Frontera",
+                "about": "Frontera is a charming town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Frontera Historical Museum: Learn about the town's history and cultural heritage.",
+                                "Explore the Grijalva River: Enjoy boat tours, fishing, and bird watching along this scenic river.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Frontera"
+            },
+            {
+                "name": "Tapijulapa",
+                "about": "Tapijulapa is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Tacotalpa River: Enjoy a boat ride and explore the lush surroundings.",
+                                "Explore the Villalobos House: Discover the history and beauty of this historic house.",
+                                "Attend the Local Festivals: Experience the vibrant cultural traditions and festivities of the town."
+                            ],
+                "imageName": "Tapijulapa"
+            },
+            {
+                "name": "Teapa",
+                "about": "Teapa is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Caves of Coconá: Explore the fascinating caves and their impressive rock formations.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Teapa"
+            }
+        ]
+    },
+    {
+        "name": "Tamaulipas",
+        "pueblosMagicos": [
+            {
+                "name": "Mier",
+                "about": "Mier is a historic town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of the Immaculate Conception: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Casa de los Frijoles Pintos: Learn about the town's history and cultural heritage at this local museum.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and well-preserved colonial buildings."
+                            ],
+                "imageName": "Mier"
+            },
+            {
+                "name": "Tula",
+                "about": "Tula is a picturesque town known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Chapel of San Antonio de Padua: Admire the stunning architecture and historical significance of this chapel.",
+                                "Explore the Tula Museum: Learn about the town's history and cultural heritage.",
+                                "Attend the Tula Fair: Experience the vibrant cultural traditions, music, and food during the annual fair."
+                            ],
+                "imageName": "Tula"
+            }
+        ]
+    },
+    {
+        "name": "Tlaxcala",
+        "pueblosMagicos": [
+            {
+                "name": "Huamantla",
+                "about": "Huamantla is a picturesque town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Basilica of Our Lady of Charity: Admire the stunning architecture and historical significance of this basilica.",
+                                "Explore the National Puppet Museum: Discover the history and art of puppetry in this unique museum.",
+                                "Attend the Huamantla Fair: Experience the vibrant cultural traditions, music, and food during the annual fair."
+                            ],
+                "imageName": "Huamantla"
+            },
+            {
+                "name": "Ixtenco",
+                "about": "Ixtenco is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Ixtenco Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Experience the Local Festivals: Enjoy traditional music, dance, and food during the town's vibrant festivals."
+                            ],
+                "imageName": "Ixtenco"
+            },
+            {
+                "name": "Tlaxco",
+                "about": "Tlaxco is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Tlaxco Hacienda: Explore the history and beauty of this historic hacienda.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tlaxco"
+            }
+        ]
+    },
+    {
+        "name": "Veracruz",
+        "pueblosMagicos": [
+            {
+                "name": "Coatepec",
+                "about": "Coatepec is known for its beautiful landscapes and rich coffee-growing heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Coffee Museum: Learn about the history and production of coffee in the region.",
+                                "Explore the Coatepec Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Coatepec"
+            },
+            {
+                "name": "Cordoba",
+                "about": "Córdoba is a picturesque town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the San Miguel Arcángel Church: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Córdoba Historical Center: Walk through the charming streets and admire the colonial buildings.",
+                                "Discover the Local Handicrafts: Purchase traditional crafts made by local artisans."
+                            ],
+                "imageName": "Cordoba"
+            },
+            {
+                "name": "Coscomatepec",
+                "about": "Coscomatepec is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Coscomatepec Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Coscomatepec"
+            },
+            {
+                "name": "Naolinco de Victoria",
+                "about": "Naolinco de Victoria is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Naolinco Waterfall: Enjoy the stunning natural beauty and take a refreshing swim in the clear waters.",
+                                "Explore the Naolinco Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Naolinco de Victoria"
+            },
+            {
+                "name": "Orizaba",
+                "about": "Orizaba is a historic town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Palacio de Hierro: Admire the stunning architecture and learn about the history of this iron palace.",
+                                "Explore the Orizaba Riverwalk: Enjoy a leisurely stroll along the scenic riverwalk and discover beautiful parks and sculptures.",
+                                "Take a Cable Car Ride to Cerro del Borrego: Enjoy panoramic views of the town and surrounding landscapes."
+                            ],
+                "imageName": "Orizaba"
+            },
+            {
+                "name": "Papantla",
+                "about": "Papantla is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the El Tajín Archaeological Site: Explore the ancient ruins and learn about their historical significance.",
+                                "Witness the Voladores de Papantla: Experience the traditional dance ceremony performed by the Totonac people.",
+                                "Explore the Papantla Market: Discover traditional crafts, foods, and souvenirs at the bustling market."
+                            ],
+                "imageName": "Papantla"
+            },
+            {
+                "name": "Xico",
+                "about": "Xico is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Xico Waterfall: Enjoy the stunning natural beauty and take a refreshing swim in the clear waters.",
+                                "Explore the Xico Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Xico"
+            },
+            {
+                "name": "Zozocolco",
+                "about": "Zozocolco is known for its beautiful natural surroundings and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Miguel Arcángel: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Zozocolco Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Attend the Day of the Dead Festival: Experience the vibrant cultural traditions and colorful altars during this annual festival."
+                            ],
+                "imageName": "Zozocolco"
+            }
+        ]
+    },
+    {
+        "name": "Yucatán",
+        "pueblosMagicos": [
+            {
+                "name": "Espita",
+                "about": "Espita is a charming town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San José: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Espita Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Espita"
+            },
+            {
+                "name": "Izamal",
+                "about": "Izamal is known as the 'Yellow City' due to its brightly colored buildings. It was designated a Pueblo Mágico for its historical significance, colonial architecture, and vibrant cultural heritage.",
+                            "mustDoActivities": [
+                                "Visit the Convent of San Antonio de Padua: Admire the stunning architecture and historical significance of this convent.",
+                                "Explore the Kinich Kakmó Pyramid: Climb to the top of this ancient Mayan pyramid for panoramic views of the city.",
+                                "Take a Horse-Drawn Carriage Ride: Enjoy a leisurely ride through the picturesque streets of Izamal."
+                            ],
+                "imageName": "Izamal"
+            },
+            {
+                "name": "Mani",
+                "about": "Maní is a historic town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Convent of San Miguel Arcángel: Admire the stunning architecture and historical significance of this convent.",
+                                "Explore the Maní Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Mani"
+            },
+            {
+                "name": "Motul",
+                "about": "Motul is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Motul Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Taste the Huevos Motuleños: Try this traditional Yucatecan dish at a local eatery."
+                            ],
+                "imageName": "Motul"
+            },
+            {
+                "name": "Sisal",
+                "about": "Sisal is a picturesque coastal town known for its beautiful beaches and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, natural beauty, and vibrant local culture.",
+                            "mustDoActivities": [
+                                "Relax on Sisal Beach: Enjoy the pristine white sand and crystal-clear waters.",
+                                "Visit the Sisal Pier: Take a stroll along the pier and enjoy the scenic views of the Gulf of Mexico.",
+                                "Explore the Local Seafood Restaurants: Savor fresh seafood dishes at the town's charming eateries."
+                            ],
+                "imageName": "Sisal"
+            },
+            {
+                "name": "Tekax",
+                "about": "Tekax is a charming town known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Church of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Tekax Caves: Discover the fascinating caves and their impressive rock formations.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Tekax"
+            },
+            {
+                "name": "Valladolid",
+                "about": "Valladolid is a picturesque town known for its beautiful colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Cenote Zací: Swim in the crystal-clear waters of this stunning cenote located in the heart of the town.",
+                                "Explore the Convent of San Bernardino de Siena: Admire the stunning architecture and historical significance of this convent.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Valladolid"
+            }
+        ]
+    },
+    {
+        "name": "Zacatecas",
+        "pueblosMagicos": [
+            {
+                "name": "Guadalupe",
+                "about": "Guadalupe is known for its rich cultural heritage and beautiful colonial architecture. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and vibrant cultural scene.",
+                            "mustDoActivities": [
+                                "Visit the Guadalupe Museum: Learn about the town's history and cultural heritage through its extensive art collection.",
+                                "Explore the Parish of Our Lady of Guadalupe: Admire the stunning architecture and historical significance of this church.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Guadalupe"
+            },
+            {
+                "name": "Jerez",
+                "about": "Jerez is a picturesque town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Rafael Páez Garden: Enjoy the beautiful gardens and relaxing atmosphere of this central park.",
+                                "Explore the Sanctuary of Our Lady of Solitude: Admire the stunning architecture and historical significance of this church.",
+                                "Attend the Jerez Fair: Experience the vibrant cultural traditions, music, and food during the annual fair."
+                            ],
+                "imageName": "Jerez"
+            },
+            {
+                "name": "Nochistlan",
+                "about": "Nochistlán is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Francisco: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Nochistlán Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Nochistlan"
+            },
+            {
+                "name": "Pinos",
+                "about": "Pinos is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Matías: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Pinos Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Pinos"
+            },
+            {
+                "name": "Sombrerete",
+                "about": "Sombrerete is a historic mining town known for its well-preserved colonial architecture and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Santo Domingo Church: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Sierra de Órganos National Park: Enjoy outdoor activities like hiking and picnicking in this beautiful park.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Sombrerete"
+            },
+            {
+                "name": "Teul",
+                "about": "Teúl is known for its rich cultural heritage and beautiful natural surroundings. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of San Juan Bautista: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Teúl Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Teul"
+            },
+            {
+                "name": "Villanueva",
+                "about": "Villanueva is a charming town known for its beautiful landscapes and rich cultural heritage. It was designated a Pueblo Mágico for its historical significance, traditional crafts, and scenic beauty.",
+                            "mustDoActivities": [
+                                "Visit the Parish of Our Lady of the Rosary: Admire the stunning architecture and historical significance of this church.",
+                                "Explore the Villanueva Market: Discover traditional crafts, foods, and souvenirs at the bustling market.",
+                                "Stroll Through the Town's Streets: Enjoy the charming atmosphere and traditional architecture."
+                            ],
+                "imageName": "Villanueva"
+            }
+        ]
+    }
+]
